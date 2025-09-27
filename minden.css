@@ -1,0 +1,28 @@
+h1{
+    color: rgb(6, 6, 177);
+}
+
+body {
+    background-color: lightblue;
+}
+
+img{
+    text-align: justify;
+}
+
+.autojobbra{
+ float: right;
+}
+
+.autobalra{
+ text-align: left;   
+}
+
+p {
+    text-align: justify;
+    max-width: 600px
+}
+#righthead {
+    text-align: right;
+}
+
