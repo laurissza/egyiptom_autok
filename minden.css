@@ -1,3 +1,9 @@
+
+.atvezetohatter {
+    text-align: center;
+    background-color: rosybrown;
+}
+
 .lefthead {
     font-size: 25px;
     margin-left: 5px;
@@ -79,3 +85,27 @@ p {
     max-width: 600px
 }
 
+.egyiptomihatter {
+    background-image: url(assets/6_karnak/kepek/egyiptomihatter.jpg);
+}
+
+.egyiphathat {
+    background-color: rgb(250, 189, 135);
+    max-width: 630px;
+    margin:auto;
+    padding: 12px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(161, 3, 3);
+}
+h2 {
+    font-size: 25px;
+    text-align: center;
+    color: rgb(161, 3, 3);
+}
+
+hr {
+   color: rgb(161, 3, 3);
+}
